@@ -1,9 +1,2 @@
-1 hello loulou
-2 how are you
-3 I miss you a lot
-bonjour
-comment vas tu
 1 text message 1
 2 text message 2
-3 text message 3
-4 text message 4
